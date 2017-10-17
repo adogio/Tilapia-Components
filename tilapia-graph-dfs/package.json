@@ -1,0 +1,11 @@
+{
+    "name": "tilapia-graph-dfs",
+    "version": "1.0.0",
+    "description": "graph-dfs module for tilapia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "WMXPY",
+    "license": "WTFPL"
+}
