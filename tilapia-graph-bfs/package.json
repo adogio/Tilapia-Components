@@ -1,0 +1,11 @@
+{
+  "name": "tilapia-graph-bfs",
+  "version": "1.0.0",
+  "description": "graph-bfs module for tilapia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WMXPY",
+  "license": "WTFPL"
+}
